@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Shamal Krishna</h1>
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Founder+%40+ClaudeKing.org;Built+3+AI+operators+running+24%2F7;89%2B+skills+%7C+24+CLIs+%7C+8+MCP+servers;Self-taught+developer+%7C+Sydney%2C+AU" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Founder+%40+ClaudeKing.org;Built+4+AI+operators+running+24%2F7;98%2B+skills+%7C+24+CLIs+%7C+8+MCP+servers;Self-taught+developer+%7C+Sydney%2C+AU" alt="Typing SVG" />
   </p>
   <p>
     <a href="https://claudeking.org"><img src="https://img.shields.io/badge/Agency-claudeking.org-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Agency" /></a>
@@ -20,19 +20,20 @@ Self-taught developer and founder based in Sydney, Australia. I build AI operato
 
 Previously: 7+ years across caregiving, customs brokerage, logistics, retail, and commercial operations. That real-world ops background is why the AI systems I build actually work in production.
 
-**Currently running:** 3 AI operators, 89+ automation skills, 24 CLIs, 8 MCP servers, 1,220 CRM prospects, 6 client projects.
+**Currently running:** 4 AI operators, 98+ automation skills, 24 CLIs, 8 MCP servers, 1,220 CRM prospects, 6 client projects.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%" />
 
 ## The Operator System
 
-Three AI operators work together to run ClaudeKing as an agency:
+Four AI operators work together to run ClaudeKing as an agency:
 
 | Operator | Model | Role | Repo |
 |----------|-------|------|------|
-| **Koda** | Claude Opus 4.6 | COO — orchestration, QA, client-facing, social, CRM | [claudeking.cloud](https://github.com/SamDev1303/claudeking.cloud) |
-| **Gideon** | GPT-5.4 (Codex) | Code review, research, content pipeline | [Gideon](https://github.com/SamDev1303/Gideon) |
-| **Atlas** | Gemini 3 Pro | Research, reasoning, visual intelligence | [Atlas](https://github.com/SamDev1303/Atlas) |
+| **Koda** | Claude Opus 4.7 | COO — orchestration, QA, client-facing, social, CRM | [claudeking.cloud](https://github.com/SamDev1303/claudeking.cloud) |
+| **Gideon** | GPT-5.5 (Codex) | Code review, research, content pipeline | [runtime-gideon](https://github.com/SamDev1303/runtime-gideon) |
+| **Atlas** | Gemini 3.1 Pro | Independent verification, large-context reads, visual intelligence | [runtime-atlas](https://github.com/SamDev1303/runtime-atlas) |
+| **Neo** | OpenCode + OpenRouter free | Ops, content, batch analysis, strategic | [runtime-neo](https://github.com/SamDev1303/runtime-neo) |
 
 They coordinate through markdown-based handoff protocols. No API between them — just shared folders and naming conventions. The system dispatches tasks to the right model based on capability, not brand loyalty.
 
@@ -43,8 +44,8 @@ They coordinate through markdown-based handoff protocols. No API between them �
 ### AI & Automation
 <p>
   <img src="https://img.shields.io/badge/Claude_Opus_4.6-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Opus" />
-  <img src="https://img.shields.io/badge/GPT--5.4_(Codex)-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
-  <img src="https://img.shields.io/badge/Gemini_3_Pro-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini Pro" />
+  <img src="https://img.shields.io/badge/GPT--5.5_(Codex)-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Gemini_3.1_Pro-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini Pro" />
   <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA NIM" />
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
 </p>
@@ -76,9 +77,9 @@ They coordinate through markdown-based handoff protocols. No API between them �
 
 | Project | Stack | Status |
 |---------|-------|--------|
-| [**claudeking.cloud**](https://github.com/SamDev1303/claudeking.cloud) | Claude Code + TypeScript + Memory API | Koda's 24/7 runtime — 89+ skills, Pinecone embeddings, multi-model routing |
-| [**Gideon**](https://github.com/SamDev1303/Gideon) | Codex CLI (GPT-5.4) | Code review, research, content pipeline operator |
-| [**Atlas**](https://github.com/SamDev1303/Atlas) | Gemini 3 Pro | Research, reasoning, visual intelligence operator |
+| [**claudeking.cloud**](https://github.com/SamDev1303/claudeking.cloud) | Claude Code + TypeScript + Memory API | Koda's 24/7 runtime — 98+ skills, Pinecone embeddings, multi-model routing |
+| [**Gideon**](https://github.com/SamDev1303/Gideon) | Codex CLI (GPT-5.5) | Code review, research, content pipeline operator |
+| [**Atlas**](https://github.com/SamDev1303/Atlas) | Gemini 3.1 Pro | Research, reasoning, visual intelligence operator |
 | [**skills**](https://github.com/SamDev1303/skills) | Anthropic v2.0 format | 89+ automation skills powering the operator system |
 | [**claw-school**](https://github.com/SamDev1303/claw-school) | Next.js + Supabase + Stripe | AI agent university — tiered SaaS with auto-grading |
 | [**BULArides**](https://github.com/SamDev1303/BULArides) | React Native + Supabase | Fiji's first ride-hailing platform |
