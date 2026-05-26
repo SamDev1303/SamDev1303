@@ -20,7 +20,7 @@ Self-taught developer and founder based in Sydney, Australia. I build AI operato
 
 Previously: 7+ years across caregiving, customs brokerage, logistics, retail, and commercial operations. That real-world ops background is why the AI systems I build actually work in production.
 
-**Currently running:** 4 AI operators, 98+ automation skills, 24 CLIs, 8 MCP servers, 1,220 CRM prospects, 6 client projects.
+**Currently running:** 4 AI operators, 89+ automation skills, 24 CLIs, 8 MCP servers, 1,220 CRM prospects, 6 client projects.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%" />
 
@@ -43,7 +43,7 @@ They coordinate through markdown-based handoff protocols. No API between them â€
 
 ### AI & Automation
 <p>
-  <img src="https://img.shields.io/badge/Claude_Opus_4.6-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Opus" />
+  <img src="https://img.shields.io/badge/Claude_Opus_4.7-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Opus" />
   <img src="https://img.shields.io/badge/GPT--5.5_(Codex)-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
   <img src="https://img.shields.io/badge/Gemini_3.1_Pro-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini Pro" />
   <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA NIM" />
@@ -77,14 +77,32 @@ They coordinate through markdown-based handoff protocols. No API between them â€
 
 | Project | Stack | Status |
 |---------|-------|--------|
-| [**claudeking.cloud**](https://github.com/SamDev1303/claudeking.cloud) | Claude Code + TypeScript + Memory API | Koda's 24/7 runtime â€” 98+ skills, Pinecone embeddings, multi-model routing |
-| [**Gideon**](https://github.com/SamDev1303/Gideon) | Codex CLI (GPT-5.5) | Code review, research, content pipeline operator |
-| [**Atlas**](https://github.com/SamDev1303/Atlas) | Gemini 3.1 Pro | Research, reasoning, visual intelligence operator |
-| [**skills**](https://github.com/SamDev1303/skills) | Anthropic v2.0 format | 89+ automation skills powering the operator system |
-| [**claw-school**](https://github.com/SamDev1303/claw-school) | Next.js + Supabase + Stripe | AI agent university â€” tiered SaaS with auto-grading |
-| [**BULArides**](https://github.com/SamDev1303/BULArides) | React Native + Supabase | Fiji's first ride-hailing platform |
-| [**CLEANUPBROS-REPO**](https://github.com/SamDev1303/CLEANUPBROS-REPO) | Next.js + Vite + CRM | Commercial cleaning business infrastructure |
-| [**ASHIKA.COM.AU**](https://github.com/SamDev1303/ASHIKA.COM.AU) | Next.js + Supabase | South Asian fashion rental e-commerce |
+| [**claudeking.cloud**](https://github.com/SamDev1303/claudeking.cloud) | Claude Code + TypeScript + Memory API | Koda's 24/7 runtime â€” 89+ skills, Pinecone embeddings, multi-model routing |
+| [**runtime-gideon**](https://github.com/SamDev1303/runtime-gideon) | Codex CLI (GPT-5.5) | Code review, research, content pipeline operator |
+| [**runtime-atlas**](https://github.com/SamDev1303/runtime-atlas) | Gemini 3.1 Pro | Research, reasoning, visual intelligence operator |
+| [**tool-skills**](https://github.com/SamDev1303/tool-skills) | Anthropic v2.0 format | 89+ automation skills powering the operator system |
+| [**app-falah**](https://github.com/SamDev1303/app-falah) | React Native + Expo | Privacy-first Islamic prayer app â€” shipped to App Store + Play |
+| [**app-bularides**](https://github.com/SamDev1303/app-bularides) | React Native + Supabase | Fiji's first ride-hailing platform |
+| [**business-cleanupbros**](https://github.com/SamDev1303/business-cleanupbros) | Next.js + Vite + CRM | Commercial cleaning business infrastructure (live) |
+| [**client-ashika**](https://github.com/SamDev1303/client-ashika) | Next.js + Supabase | South Asian fashion rental e-commerce (client) |
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%" />
+
+## Finding Your Way Around
+
+My repos are organized by **name prefix** and **GitHub topics** (filter any list by topic):
+
+| Prefix | Meaning | Topic |
+|--------|---------|-------|
+| `app-` | Product / app builds (AppHeaven portfolio) | `app` `appheaven` |
+| `business-` | My own business sites | `business` `live-production` |
+| `client-` | Client delivery work | `client` `live-production` |
+| `runtime-` | AI agent operators (Koda/Gideon/Atlas/Neo) | `agent-runtime` |
+| `tool-` / `power-` | Reusable tooling & skills | `tool` |
+| `idea-` | Early-stage concepts | `idea` |
+| `fork-` | Forks of OSS I use or study | `fork` |
+
+Every repo is tagged with its **kind**, **status** (`active`/`archived`), and **primary stack** â€” so you can filter to exactly what you want.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%" />
 
@@ -101,7 +119,7 @@ They coordinate through markdown-based handoff protocols. No API between them â€
 
 ```
 89+ automation skills       24 CLIs integrated        8 MCP servers
-3 AI operators (24/7)       6 client projects          1,220 CRM prospects
+4 AI operators (24/7)       6 client projects          1,220 CRM prospects
 ```
 
 <div align="center">
